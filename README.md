@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ha</h1>
-<h3 align="center">A Product Operator turns to Software Engineer</h3>
+<h3 align="center">A Product Ops Lead turns to Software Engineer</h3>
 
 - I'm a full-stack software engineer with a passion for product development, software development and data structure & algorithm. I've had 7+ years of experience working with tech startups and scale-ups in the fintech, e-commerce, and e-logistics industries in Asia. If i'm not coding, I love cooking, baking and travelling.
 
-- I'm currently Learning Data Structures and Algorithms and working on my some projects to improve my coding skills.
+- I'm currently learning Data Structures and Algorithms and working on my some projects to improve my coding skills.
 
 - I'm looking for an entry level full stack engineer/ backend engineer/ frontend engineer position.
 
