@@ -7,7 +7,7 @@
 
 - I'm looking for an entry level full stack engineer/ backend engineer/ frontend engineer position.
 
-- 📫 How to reach me **vietha.nguyen3110@gmail.com**
+- Reach me at **vietha.nguyen3110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
