@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ha</h1>
-<h3 align="center">A Product Ops Lead turned to Software Engineer</h3>
+<h3 align="center">A small-town software engineer trying to make it big in the tech world.</h3>
 
-- I'm a full-stack software engineer with a passion for product development, software development and data structure & algorithm. I've had 7+ years of experience working with tech startups and scale-ups in the fintech, e-commerce, and e-logistics industries in Asia. If i'm not coding, I love cooking, baking and travelling.
+- Based in the Greater Seattle Area, I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my projects and see for yourself.
 
 - I'm currently learning Data Structures and Algorithms and working on my projects to improve my coding skills.
 
