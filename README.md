@@ -3,7 +3,7 @@
 
 - Based in the Greater Seattle Area, I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics as a Product Ops Lead. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my projects and see for yourself.
 
-- I'm currently learning Data Structures and Algorithms and working on Hamini-App project.
+- I'm currently learning DS&A, Flutter(Dart) and working on Hamini-App project.
 
 - I'm looking for an entry level full stack engineer/ backend engineer/ frontend engineer position.
 
