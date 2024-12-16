@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ha</h1>
 <h3 align="center">A small-town software engineer trying to make it big in the tech world.</h3>
 
-My toolkit includes TypeScript, JavaScript, Python, Dart, Flutter, React, Nextjs, React Query, Redux, Node, Express, SQL, SQLAlchemy, Flask, Tailwind,Graphql, Apollo, Prisma, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics as a Product Ops Lead. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my projects and see for yourself.
-- Currently, I'm learning Kotlin.
-- Reach me at **vietha.nguyen3110@gmail.com**
-
-
 ![](https://komarev.com/ghpvc/?username=vietha3110)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
